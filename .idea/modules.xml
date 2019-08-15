@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaRace.iml" filepath="$PROJECT_DIR$/JavaRace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaRace.iml" filepath="$PROJECT_DIR$/.idea/JavaRace.iml" />
     </modules>
   </component>
 </project>

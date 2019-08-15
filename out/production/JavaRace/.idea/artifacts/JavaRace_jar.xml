@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaRace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaRace_jar</output-path>
+    <root id="archive" name="JavaRace.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/srcLast/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JavaRace" />
+      <element id="extracted-dir" path="D:/прога/Java/JLayer1.0.1/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
